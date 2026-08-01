@@ -1,2 +1,0 @@
-feature line one
-feature line two
